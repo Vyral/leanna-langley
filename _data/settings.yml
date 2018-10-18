@@ -24,24 +24,25 @@ client:
   url: https://www.RelocateWithLeanna.com
 
 CTAs:
-  first_CTA_text: Market Analysis
-  first_CTA_URL: https://www.relocatewithleanna.com/relocatewithleanna/market-analysis
-  second_CTA_text: Book a Home Showing
-  second_CTA_URL: https://www.relocatewithleanna.com/relocatewithleanna/home-showings
+  first_CTA_text: Home Valuation
+  first_CTA_URL: /homevalue/
+  second_CTA_text: Home Search
+  second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    # CTA_title: "What’s Your Linn & Benton County Home Worth?"
-    # CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Market Analysis"
-    CTA_url: https://www.relocatewithleanna.com/relocatewithleanna/market-analysis
+    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+    CTA_link_text: "Free Home Value Report"
+    CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    # CTA_title2: "Looking for a Linn & Benton County Home?"
-    # CTA_text2: "Search the entire MLS for your Linn & Benton County home."
-    CTA_link_text2: "Book a Home Showing"
-    CTA_url2: https://www.relocatewithleanna.com/relocatewithleanna/home-showings
+    CTA_title2: "Looking for a -- MARKET -- Home?"
+    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_link_text2: "Search the MLS"
+    CTA_url2: /homesearch/
+    CTA_url2: 
 
 lender:
   show_section: false
