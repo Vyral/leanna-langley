@@ -18,7 +18,7 @@ tags:
   - Home Seller Tips
 ---
 
-Our market remains busy and it is still an opportune time to command a high price selling your home in 2018.
+Our market remains busy, and it is still an opportune time to command a high price selling your home in 2018.
 
 I know what’s happening in Linn and Benton County, specifically pertaining to home values, that will directly affect you.
 
