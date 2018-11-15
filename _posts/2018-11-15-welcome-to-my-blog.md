@@ -18,3 +18,16 @@ tags:
   - Home Seller Tips
 ---
 
+Our market remains busy and it is still an opportune time to command a high price selling your home in 2018.
+
+I know what’s happening in Linn and Benton County, specifically pertaining to home values, that will directly affect you.
+
+So, I’ll be posting two monthly video messages on this blog to keep you updated.&nbsp;
+
+They will be valuable and useful in helping you stay on top of what’s happening in the community.
+
+I offer showings of homes, and if you are looking to view a property, you can search for available homes right [here](https://linnbentonrealestateadvice.com/homesearch/) on my blog page.&nbsp;
+
+Check back because content will be coming soon!
+
+I’m excited to keep you updated on what’s going on with real estate in Linn and Benton County.
