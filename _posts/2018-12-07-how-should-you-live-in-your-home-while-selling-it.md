@@ -21,13 +21,13 @@ youtube_code: o7YyDtRwWzE
 
 Your home has always been your sanctuary. Your own personal space. However, when that “For Sale” sign goes out on the front lawn, you need to be prepared to bare all. **Prepare for your new home while living in your listed home with these helpful tips:**
 
-**1. Start packing now.** The secret to getting a house clutter-free is to remove the things you can live without while your home is on the market.
+**1. Start packing now.** The secret to decluttering a house is to remove the things you can live without while your home is on the market.
 
-**2. Store it, sell it, chuck it, or donate it.** While you’re packing, work on decluttering and throwing away or donating the items you no longer need. It won’t just give you a head start on moving. Buyers appreciate the extra space when searching for homes.
+**2. Store it, sell it, chuck it, or donate it.** While you’re packing, work on decluttering and throwing away or donating the items you no longer need. It won’t just give you a head start on moving—Buyers appreciate the extra space when searching for homes.
 
 {% include pullquote.html %}
 
-**3. Get squeaky clean.** Lacking motivation to clean every cobweb on the ceiling or scrub the floor? A clean house can gain you up to $10,000 extra on your home sale. Aim for five-star hotel perfection when cleaning sinks, glass, mirrors, and light fixtures.
+**3. Get squeaky clean.** Lacking the motivation to clean every cobweb on the ceiling or scrub the floor? A clean house can gain you up to $10,000 extra on your home sale. Aim for five-star hotel perfection when cleaning sinks, glass, mirrors, and light fixtures.
 
 **4. Maintain your privacy and safety.** People tend to look through drawers, closets, and medicine cabinets at showings or open houses. Protect your valuables by locking them up or removing them from your house.
 
