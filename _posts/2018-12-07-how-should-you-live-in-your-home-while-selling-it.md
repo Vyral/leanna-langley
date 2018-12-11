@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/12-6---leanna-langley---yt.jpg
-youtube_code: YvEPCiB2t4g
+youtube_code: VpNPqbjvfUA
 ---
 
 {% include youtube.html %}
