@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Should You Live in Your Home While Selling It?
-date: 2018-12-07 20:21:43
+date: 2018-12-07 20:21:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/12-6---leanna-langley---yt.jpg
-youtube_code: o7YyDtRwWzE
+youtube_code: YvEPCiB2t4g
 ---
 
 {% include youtube.html %}
