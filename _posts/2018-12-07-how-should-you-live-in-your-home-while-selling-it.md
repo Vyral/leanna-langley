@@ -8,7 +8,7 @@ excerpt: >-
   If you’re going to live in your home while you sell it, there are a few things
   you can do to make the process easier. Here are our top tips.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Leanna+Langley/How+Should+You+Live+in+Your+Home+While+Selling+It%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Leanna+Langley/Cadwell+Realty+Group-+How+Should+You+Live+in+Your+Home+While+Selling+It_+(1).mp4
 pullquote: Make the prep process a game for your kids.
 enclosure_type: video/mp4
 enclosure_time:
