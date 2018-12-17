@@ -9,7 +9,6 @@ excerpt: >-
   year.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Leanna+Langley/Cadwell+Realty+Group+%257C+Wishing+You+a+Merry+Christmas+and+a+Happy+Holiday.mp4
-pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
