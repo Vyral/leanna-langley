@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Wishing You a Merry Christmas and a Happy Holiday
-date:
+date: 2018-12-17 21:26:02
 tags:
-  - Happy Holidays
 excerpt: >-
   Thank you for continuing to support my business, and I’ll see you in the new
   year.
