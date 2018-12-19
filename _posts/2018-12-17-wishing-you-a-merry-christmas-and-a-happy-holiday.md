@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wishing You a Merry Christmas and a Happy Holiday
-date: 2018-12-17 21:26:02
+date: 2018-12-17 21:26:00
 tags:
 excerpt: >-
   Thank you for continuing to support my business, and I’ll see you in the new
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/12-17-holiday-season-yt.jpg
-youtube_code: Jb5zkVGy5e8
+youtube_code: mKGsyEuyfpU
 ---
 
 {% include youtube.html %}
