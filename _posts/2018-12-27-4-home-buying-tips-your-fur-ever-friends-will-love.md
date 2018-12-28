@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Home Buying Tips Your “Fur-ever” Friends Will Love
-date: 2018-12-27 16:50:54
+date: 2018-12-27 16:50:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/12-27-pets-yt.jpg
-youtube_code: uBtpc5oMsO4
+youtube_code: Hqk8VHZ2xsY
 ---
 
 {% include youtube.html %}
