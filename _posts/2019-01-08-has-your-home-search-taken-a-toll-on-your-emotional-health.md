@@ -21,6 +21,8 @@ youtube_code: a1UfNXXVpOI
 
 Emotions tend to run high when it comes to buying a home. Just ask anyone who’s ever been through such a transaction and they’ll tell you this is true. And this is exactly why, today, we’d like to share a quick message on this often-ignored aspect of the home search process.
 
+&nbsp;
+
 The good news is that if you’re going through any of the feelings we’re about to describe, you can rest easy knowing that this is perfectly normal.
 
 <br>&nbsp; &nbsp; **&nbsp; 1. Disillusionment.** Online listing photos can be deceiving, and, given that the majority of homebuyers begin their search online these days, chances are that you’ve had some first-hand experience with this. Great listing agents know how to utilize professional photography and marketing techniques to make homes look their best, but camera tricks can only go so far. The best way to truly get a feel for whether a listing suits your needs is to go out and visit it yourself—with an experienced agent by your side, of course.
