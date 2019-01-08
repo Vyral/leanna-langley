@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Has Your Home Search Taken a Toll on Your Emotional Health?
-date:
+date: 2019-01-08 19:26:34
 tags:
   - Home Buyer Tips
 excerpt: >-
