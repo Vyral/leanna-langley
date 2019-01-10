@@ -31,7 +31,7 @@ The good news is that if you’re going through any of the feelings we’re abou
 
 &nbsp; &nbsp; &nbsp; **2. Stress.** Open houses are fun until they’re not. Visiting properties through these events is a great way to get a feel for what’s available, but buyers can easily burn out after attending too many. Thankfully, having your agent help you narrow down your search criteria can alleviate this issue. It’s far better to keep your search targeted and specific than to overwhelm yourself looking at properties that don’t match your wants or needs to begin with.<br>&nbsp;
 
-&nbsp; &nbsp; &nbsp; **3. Indecision.** Buying a home can, after a while, start to feel like a neverending slog. You may find yourself attending a showing at a property you thought would be your dream home, only to walk away from the experience with an entirely different perspective on what you want. It’s absolutely fine to change your mind. The key is to stay focused on finding a home that truly suits you and your family.
+&nbsp; &nbsp; &nbsp; **3. Indecision.** Buying a home can, after a while, start to feel like a never-ending slog. You may find yourself attending a showing at a property you thought would be your dream home, only to walk away from the experience with an entirely different perspective on what you want. It’s absolutely fine to change your mind. The key is to stay focused on finding a home that truly suits you and your family.
 
 The bottom line is this: You must be patient. The perfect home for you is out there, it’s simply a matter of finding it.
 
