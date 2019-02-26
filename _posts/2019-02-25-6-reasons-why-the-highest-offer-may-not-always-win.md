@@ -19,7 +19,7 @@ youtube_code: wxqLTizvt2I
 
 {% include youtube.html %}
 
-If you’ve ever submitted a high offer on a home and still lost, you may be confused as to how it happened. After all, sellers simply look at the biggest dollar amount when choosing an offer, right? Well, that’s quite often not the case. **In fact, there are six reasons why the highest offer doesn’t necessarily mean a winning one:**
+If you’ve ever submitted a high offer on a home and still lost, you may be confused as to how it happened. After all, sellers simply look at the biggest dollar amount when choosing an offer, right? Well, that’s quite often not the case. ****In fact, there are six reasons why the highest offer&nbsp;****won't&nbsp;****necessarily&nbsp;****be&nbsp;****the winning one:****
 
 **1. Not being flexible.** Sellers look at terms that are specific to their own situation. Maybe they need more than 30 days to move out, but your offer requires them to vacate within a couple weeks.&nbsp;
 
