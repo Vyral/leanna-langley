@@ -29,7 +29,7 @@ If you’ve ever submitted a high offer on a home and still lost, you may be con
 
 {% include pullquote.html %}
 
-**4.Asking for too many things to be included.** Perhaps the house has some great family heirlooms you would like—wait until after your offer is accepted to negotiate these items.
+**4. Asking for too many things to be included.** Perhaps the house has some great family heirlooms you would like—wait until after your offer is accepted to negotiate these items.
 
 **5. Not expressing love for the house.** Think about writing a letter or shooting a video that introduces yourself to the sellers. Tell them who you are, who your family is, and so on. Remember, the sellers may be walking away from something very sentimental—they likely want it to be left in good hands.
 
