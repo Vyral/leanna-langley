@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-18-homes-for-heroes-yt.jpg
-youtube_code: 2K-vx4SmODA
+youtube_code: Y65DNcsHPqE
 ---
 
 {% include youtube.html %}
