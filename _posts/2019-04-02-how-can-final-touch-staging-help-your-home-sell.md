@@ -37,4 +37,4 @@ Decluttering, depersonalizing, and organizing are all things that Rachael believ
 
 If you’re interested in getting in contact with Rachael, she serves the area between Sweet Home and Philoma. You can reach out to her by giving her a call at (541) 905-2189 or sending her an email to [FinalTouchesStaging@gmail.com](mailto:FinalTouchesStaging@gmail.com).
 
-If you have any other questions for me or my team in the meantime, don’t hesitate to give me a call or send mean mail. I look forward to hearing from you soon.
+If you have any other questions for me or my team in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
